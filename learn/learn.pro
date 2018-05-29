@@ -16,3 +16,6 @@ DEFINES += QT_DEPRECATED_WARNINGS
 
 SOURCES += \
         main.cpp
+
+HEADERS += \
+    std_lib_facilities.h
