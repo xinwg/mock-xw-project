@@ -1,2 +1,2 @@
-# mock-xw-project
-Mock project for xw-PPP-learning
+# xw-PPP-learn
+Project for learning PPP
