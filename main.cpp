@@ -4,11 +4,10 @@
 
 int main()
 {
-	// this is branch-a
+	// this is branch-a -a
 	std::cout << "h." << std::endl;
 
 	// test std::map
-
 	std::map<std::string, int> TerminalID;
 	TerminalID.insert(std::make_pair("Tokyo", 1));
 	TerminalID.insert(std::make_pair("Dalian", 2));
